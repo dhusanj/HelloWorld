@@ -11,11 +11,15 @@ public class Hello {
         String firstDaughter = "Subhi";
         String secondDaughter = "Maya";
         String wifeName = "Bina";
+      String friendName = "Dinesh";
+        String teacherName = "Hari";
         System.out.println(day);
         System.out.println(month);
         System.out.println(year);
         System.out.println(firstDaughter);
         System.out.println(secondDaughter);
         System.out.println(wifeName);
+        System.out.println(friendName);
+        System.out.println(teacherName);
     }
 }
