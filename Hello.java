@@ -8,8 +8,10 @@ public class Hello {
         String day = "Friday";
         String month = "May";
         String year = "2025";
+        String firstDaughter = "Subhi";
         System.out.println(day);
         System.out.println(month);
         System.out.println(year);
+        System.out.println(firstDaughter);
     }
 }
