@@ -10,6 +10,7 @@ public class Hello {
         String year = "2025";
         String firstDaughter = "Subhi";
         String secondDaughter = "Maya";
+        String wifeName = "Bina";
       String friendName = "Dinesh";
         String teacherName = "Hari";
         System.out.println(day);
@@ -17,6 +18,7 @@ public class Hello {
         System.out.println(year);
         System.out.println(firstDaughter);
         System.out.println(secondDaughter);
+        System.out.println(wifeName);
         System.out.println(friendName);
         System.out.println(teacherName);
     }
