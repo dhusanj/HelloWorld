@@ -14,6 +14,7 @@ public class Hello {
         String friendName = "Dinesh";
         String teacherName = "Hari";
         String schoolName = "Saraswati";
+        String hospitalName = "Bergan";
         System.out.println(day);
         System.out.println(month);
         System.out.println(year);
@@ -23,5 +24,6 @@ public class Hello {
         System.out.println(friendName);
         System.out.println(teacherName);
         System.out.println(schoolName);
+        System.out.println(hospitalName);
     }
 }
