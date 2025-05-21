@@ -19,9 +19,13 @@ public class Hello {
         String streetAddress = "WallStreet";
         int age = 45;
         String streetAddress1= "WallStreet12";
+
         String resturant = "Red Panda";
         int rollnumber = 12;
 
+
+
+      String resturant = "Red Panda";
 
         System.out.println(day);
         System.out.println(month);
@@ -37,8 +41,10 @@ public class Hello {
         System.out.println(streetAddress);
         System.out.println(age);
         System.out.println(streetAddress1);
+
         System.out.println(resturant);
         System.out.println(rollnumber);
+
 
     }
 }
